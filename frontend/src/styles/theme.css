@@ -1,0 +1,9 @@
+:root {
+  --primary: #1e3a8a;      /* Deep blue */
+  --secondary: #38bdf8;    /* Sky blue */
+  --background: #f8fafc;  /* Light gray */
+  --card: #ffffff;
+  --text: #0f172a;
+  --muted: #64748b;
+  --success: #16a34a;
+}
